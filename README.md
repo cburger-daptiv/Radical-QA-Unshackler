@@ -1,4 +1,5 @@
 Beyond scripted testing!
+
 Currently, we laboriously script our automated tests. We are stuck in a NUnit rut. We even write our MBUnit tests like NUnit tests. We spend a lot of time and money (hardware) automating tests. Let's explore test automation patterns to improve the efficacy and productivity of test automation.
 
 Specifically
